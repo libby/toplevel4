@@ -1,0 +1,4 @@
+[submodule "proj1"]
+	path = proj1
+	url = https://github.com/libby/proj1.git
+	branch = master
